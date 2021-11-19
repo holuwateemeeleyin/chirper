@@ -1,6 +1,6 @@
 # Chirper Project
-This is a chirper on tweet. 
-An autheticated user can Add new tweet, reply to a tweet, like and retweet.
+- A twitter clone that uses Redux to manage its state, and react to control the UI.
+- An autheticated user can Add new tweet, reply to a tweet, like and retweet.
 
 ## Project Setup
 
